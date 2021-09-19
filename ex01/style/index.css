@@ -25,10 +25,11 @@ h2 {
     margin-top: 8px;
     font-size: 12.5pt;
     font-weight: normal;   
-    color: aqua; 
+    color: lightblue; 
 }
 
 h1 {
     text-align: center;
-    color: lightcoral;
+    color: red;
+    margin-bottom: 30px;
 }
